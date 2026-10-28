@@ -9,6 +9,6 @@ class Solution {
             min=rem;
             rem=max%min;
         }
-        return (n1*n2)/min;
+        return (n1/min)*n2;
     }
 }
