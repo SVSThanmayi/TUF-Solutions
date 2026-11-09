@@ -1,4 +1,4 @@
-# [742. Second Highest Occurring Element](https://takeuforward.org/practice/dsa/second-highest-occurring-element?sidebar=0)
+# [742. Second Highest Occurring Element](https://takeuforward.org/practice/dsa/second-highest-occurring-element)
 
 ![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
 

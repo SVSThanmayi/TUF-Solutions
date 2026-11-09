@@ -17,14 +17,14 @@ class Solution {
         if(freq<max && freq>submax)
             submax=freq;
        }
-       int ans=Integer.MAX_VALUE;
+       int fin=Integer.MAX_VALUE;
        for(int key:map.keySet())
        {
-        if(map.get(key)==submax && key<ans)
-        ans=key;
+        if(map.get(key)==submax && key<fin)
+        fin=key;
        }
        if(submax==0)
        return -1;
-       return ans;
+       return fin;
     }
 }
